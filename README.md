@@ -8,10 +8,12 @@ This repositories contain programs of various data structures in C++ language. A
 | ------- |
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
 |  |
 | ------- |
