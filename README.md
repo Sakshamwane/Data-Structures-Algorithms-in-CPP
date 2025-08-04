@@ -10,6 +10,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
+| [0485-max-consecutive-ones](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
