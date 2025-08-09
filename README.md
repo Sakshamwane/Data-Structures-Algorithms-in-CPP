@@ -50,4 +50,8 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
