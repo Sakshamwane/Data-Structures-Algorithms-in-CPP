@@ -54,4 +54,12 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0328-odd-even-linked-list) |
+## String
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
