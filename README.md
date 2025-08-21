@@ -58,8 +58,10 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
