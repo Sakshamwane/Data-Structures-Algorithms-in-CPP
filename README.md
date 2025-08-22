@@ -30,6 +30,7 @@ This repositories contain programs of various data structures in C++ language. A
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
 ## Hash Table
@@ -53,6 +54,7 @@ This repositories contain programs of various data structures in C++ language. A
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0328-odd-even-linked-list) |
 ## String
 |  |
@@ -64,4 +66,8 @@ This repositories contain programs of various data structures in C++ language. A
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
