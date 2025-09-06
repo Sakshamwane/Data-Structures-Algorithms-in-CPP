@@ -8,6 +8,7 @@ This repositories contain programs of various data structures in C++ language. A
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0213-house-robber-ii) |
@@ -79,4 +80,12 @@ This repositories contain programs of various data structures in C++ language. A
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
