@@ -6,6 +6,7 @@ This repositories contain programs of various data structures in C++ language. A
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
@@ -78,6 +79,7 @@ This repositories contain programs of various data structures in C++ language. A
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
