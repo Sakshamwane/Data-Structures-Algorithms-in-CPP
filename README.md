@@ -13,6 +13,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -23,6 +24,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Backtracking
@@ -35,9 +37,11 @@ This repositories contain programs of various data structures in C++ language. A
 | [0002-add-two-numbers](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -90,4 +94,12 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
