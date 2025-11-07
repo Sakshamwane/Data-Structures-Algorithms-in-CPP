@@ -11,6 +11,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0002-add-two-numbers](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0319-bulb-switcher) |
 ## Hash Table
@@ -88,6 +90,7 @@ This repositories contain programs of various data structures in C++ language. A
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
