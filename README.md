@@ -15,6 +15,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -91,6 +92,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
