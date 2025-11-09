@@ -1,22 +1,19 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        //Set to store unique elements
-        set<int> s;
+        //Pointer to track unique elements
+        int left = 0;
 
-        //Storing array elements in set
-        for(int val : nums){
-            s.insert(val);
+        //Size of given array
+        int n = nums.size();
+
+        //Loop to traverse all elements
+        for(int right = 1; right < n; right++){
+            if(nums[left] != nums[right]){
+                left++;
+                nums[left] = nums[right];
+            }
         }
-
-        //Size of the set
-        int k = s.size();
-
-        //Overwriting unique elements from set to array
-        int j = 0;
-        for(int val : s){
-            nums[j++] = val;
-        }
-        return k;
+        return left + 1;
     }
 };
