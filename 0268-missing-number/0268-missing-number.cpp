@@ -4,20 +4,18 @@ public:
         //Size of given array
         int n = nums.size();
 
-        //Hash array to store the frequencey of each array
-        vector<int> freq(n+1, 0);
+        //Sum of n elements
+        int sum1 = (n*(n+1))/2;
 
-        //Iterating over input array to update the frequencies
+        //Sum of array elements
+        int sum2 = 0;
         for(int num : nums){
-            freq[num]++;
+            sum2 += num;
         }
 
-        //Iterating over freq array 
-        for(int i = 0; i < freq.size(); i++){
-            //Checking if the element has freq 0
-            if(freq[i] == 0) return i;
-        }
+        //Finding the missing number
+        int ans = sum1 - sum2;
 
-        return -1;
+        return ans;
     }
 };
