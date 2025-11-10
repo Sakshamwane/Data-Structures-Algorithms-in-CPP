@@ -1,17 +1,23 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        //Size of given array
         int n = nums.size();
-        for(int i = 0; i <= n; i++){
-            int flag = 0;
-            for(int j = 0; j < n; j++){
-                if(nums[j] == i){
-                    flag = 1;
-                    break;
-                }
-            }
-            if(flag == 0) return i;
+
+        //Hash array to store the frequencey of each array
+        vector<int> freq(n+1, 0);
+
+        //Iterating over input array to update the frequencies
+        for(int num : nums){
+            freq[num]++;
         }
+
+        //Iterating over freq array 
+        for(int i = 0; i < freq.size(); i++){
+            //Checking if the element has freq 0
+            if(freq[i] == 0) return i;
+        }
+
         return -1;
     }
 };
