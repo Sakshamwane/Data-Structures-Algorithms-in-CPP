@@ -76,6 +76,7 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -94,6 +95,7 @@ This repositories contain programs of various data structures in C++ language. A
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0344-reverse-string) |
