@@ -1,20 +1,19 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        //Stack of char 
-        stack<char> st;
+        //Intialise two pointers
+        int left = 0, right = s.size()-1;
 
-        //Push chars in string to stack
-        for(char c : s){
-            st.push(c);
-        }
+        //While two pointers collide
+        while(left < right){
 
-        //Pop from stack, and rewrite string
-        for(int i = 0; i < s.size(); i++){
-            //Write top char to string
-            s[i] = st.top();
-            //Pop from stack
-            st.pop();
+            //Swap characters
+            char temp = s[left];
+            s[left] = s[right];
+            s[right] = temp;
+
+            //Re-initalise pointers
+            left++, right--;
         }
     }
 };
