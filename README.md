@@ -43,6 +43,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0319-bulb-switcher) |
+| [2032-largest-odd-number-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0344-reverse-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -130,4 +132,8 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
