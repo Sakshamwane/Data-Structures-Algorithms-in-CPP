@@ -6,6 +6,7 @@ This repositories contain programs of various data structures in C++ language. A
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
@@ -77,6 +78,7 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -136,4 +138,8 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
