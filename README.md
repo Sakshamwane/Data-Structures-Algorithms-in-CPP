@@ -49,6 +49,7 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ This repositories contain programs of various data structures in C++ language. A
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -121,6 +123,7 @@ This repositories contain programs of various data structures in C++ language. A
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
