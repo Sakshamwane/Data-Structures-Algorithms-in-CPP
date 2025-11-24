@@ -8,6 +8,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
@@ -103,6 +104,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0283-move-zeroes) |
