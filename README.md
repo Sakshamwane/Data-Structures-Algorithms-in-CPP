@@ -23,6 +23,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,10 +55,12 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
