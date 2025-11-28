@@ -162,4 +162,12 @@ This repositories contain various data structures & algorithms solutions to ques
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
