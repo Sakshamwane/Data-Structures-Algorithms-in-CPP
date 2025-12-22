@@ -13,6 +13,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0213-house-robber-ii) |
 ## Memoization
