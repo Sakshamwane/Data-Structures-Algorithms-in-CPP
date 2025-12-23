@@ -12,6 +12,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0031-next-permutation](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0118-pascals-triangle) |
@@ -69,6 +70,7 @@ This repositories contain various data structures & algorithms solutions to ques
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0198-house-robber) |
@@ -147,6 +149,7 @@ This repositories contain various data structures & algorithms solutions to ques
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0169-majority-element) |
 ## Counting
 |  |
