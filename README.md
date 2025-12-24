@@ -15,6 +15,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0048-rotate-image](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0118-pascals-triangle) |
@@ -49,6 +50,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0189-rotate-array) |
