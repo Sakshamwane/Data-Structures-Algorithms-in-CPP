@@ -4,13 +4,13 @@ public:
         //Sort the intervals based on starting time
         sort(intervals.begin(), intervals.end());
 
-        //Resutlt array to store merged interval
+        //Result array to store merged interval
         vector<vector<int>> ans;
 
         //Loop through each interval
         int n = intervals.size();
         for(int i = 0; i < n; ){
-            //Start of the current merged interval
+            //Start & end of the current merged interval
             int start = intervals[i][0];
             int end = intervals[i][1];
 
