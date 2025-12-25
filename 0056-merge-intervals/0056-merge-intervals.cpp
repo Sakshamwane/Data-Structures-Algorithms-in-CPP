@@ -1,32 +1,24 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        //Sort the intervals based on starting time
+        //Sort intervals to being all overlapping time intervals together
         sort(intervals.begin(), intervals.end());
-
-        //Result array to store merged interval
+        
+        //Empty array to store merged intervals
         vector<vector<int>> ans;
 
-        //Loop through each interval
-        int n = intervals.size();
-        for(int i = 0; i < n; ){
-            //Start & end of the current merged interval
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-
-            //Merge with all overlapping intervals
-            int j = i+1;
-            while(j < n && intervals[j][0] <= end){
-                end = max(end, intervals[j][1]);
-                j++;
+        //Iterate over all intervals
+        for(auto interval : intervals){
+            //If array is empty or interval is non overlapping
+            if(ans.empty() ||ans.back()[1] < interval[0]){
+                //Add as new interval
+                ans.push_back(interval);
+            } else{ //Overlapping
+                //Update the current merged intervals ending time
+                ans.back()[1] = max(ans.back()[1], interval[1]);
             }
-
-            //Add the merged interval to result
-            ans.push_back({start, end});
-
-            //Move to next overlapping interval
-            i = j;
         }
+        //Return ans
         return ans;
     }
 };
