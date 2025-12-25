@@ -11,15 +11,27 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* temp=head;
-        ListNode* prev=NULL;
+       //Stack to store values of nodes
+       stack<int> st;
 
-        while(temp!=NULL){
-            ListNode* front=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=front;
-        }
-        return prev;
+       //Temporary pointer to traverse the list
+       ListNode* temp = head;
+
+       //Traverse and push all node values to stack
+       while(temp != NULL){
+        st.push(temp->val);
+        temp = temp->next;
+       } 
+
+       //Reset temp to head
+       temp=head;
+
+       //Reassign values from stack in reverse order
+       while(temp != NULL){
+        temp -> val = st.top();
+       st.pop();
+       temp = temp -> next;
+       }
+    return head;
     }
 };
