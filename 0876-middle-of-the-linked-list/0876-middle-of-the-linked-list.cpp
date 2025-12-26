@@ -11,30 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        //Intialise temp pointer to head
-        ListNode* temp = head;
+        ListNode* Slow = head;
+        ListNode* Fast = head;
 
-        //Intialise counter
-        int count = 0;
-
-        //Traverse the list & count the number of nodes
-        while(temp != NULL){
-            count++;
-            temp = temp -> next;
+        while(Fast != NULL && Fast -> next != NULL){
+            Slow = Slow -> next;
+            Fast = Fast -> next -> next;
         }
-
-        //Calculate mid 
-        int mid = count/2 +1;
-        //Reintialise temp pointer to head
-        temp = head;
-
-        //Traverse to the mid position
-        while(temp != NULL){
-            mid--;
-            if(mid == 0) break;
-            temp = temp-> next;
-        }
-        //Return mid
-        return temp;
+        return Slow;
     }
 };
