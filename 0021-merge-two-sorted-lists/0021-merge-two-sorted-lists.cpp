@@ -11,38 +11,29 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        //Intialise an empty array;
-        vector<int> nums;
+        //Dummy list
+        ListNode* dummyNode = new ListNode(-1);
+        ListNode* temp = dummyNode;
 
-        //Temporary pointer
-        ListNode* temp1 = list1;
-        
-        //Store the elements of list1 into nums
-        while(temp1 != NULL){
-            nums.push_back(temp1 -> val);
-            temp1 = temp1 -> next;
-        }
-        
-        //Temporary pointer
-        ListNode* temp2 = list2;
-
-        //Store the elements of list2 into nums
-        while(temp2 != NULL){
-            nums.push_back(temp2 -> val);
-            temp2 = temp2 -> next;
-        }
-
-        //Sort the array
-        sort(nums.begin(), nums.end());
-
-        //New list creation
-        ListNode* ans = new ListNode(-1);
-        ListNode* temp = ans;
-
-        for(int i = 0; i < nums.size(); i++){
-            temp -> next = new ListNode(nums[i]);
+        //Traverse both lists simultaneously
+        while(list1 != NULL && list2 != NULL){
+            //COmpare elements from boyh
+            //Link smaller node to merged list
+            if(list1 -> val <= list2 -> val){
+                temp -> next = list1;
+                list1 = list1 -> next;
+            } else {
+                temp -> next = list2;
+                list2 = list2 -> next;
+            }
             temp = temp -> next;
         }
-        return ans -> next;
+
+        if(list1 != NULL){
+            temp -> next = list1;
+        } else {
+            temp -> next = list2;
+        }
+        return dummyNode -> next;
     }
 };
