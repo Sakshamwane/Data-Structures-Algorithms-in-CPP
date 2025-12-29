@@ -113,6 +113,7 @@ This repositories contain various data structures & algorithms solutions to ques
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
@@ -194,9 +195,15 @@ This repositories contain various data structures & algorithms solutions to ques
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
