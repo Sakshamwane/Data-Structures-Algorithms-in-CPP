@@ -10,43 +10,27 @@
  * };
  */
 class Solution {
+private:
+    void recursiveInorder(TreeNode* root, vector<int> &arr){
+        //Base case: If current tree is NULL return
+        if(root == NULL) return;
+
+        //Recursively traverse left subtree
+        recursiveInorder(root -> left, arr);
+
+        //Push current node's value to vector
+        arr.push_back(root -> val);
+
+        //Recursively traverse the right subtree
+        recursiveInorder(root -> right, arr);
+    }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        //Stack to track nodes
-        stack<TreeNode*> st;
+        //Vector to store in order traversal
+        vector<int> arr;
 
-        //Dummy node for traversal
-        TreeNode* node = root;
-
-        //Vector to store result
-        vector<int> inorder;
-
-        //Infinte loop for traversal
-        while(true){
-            //If current node is not null
-            if(node != NULL){
-                //Push curr node to stack
-                st.push(node);
-
-                //Move to left child
-                node = node -> left;
-            } else {
-                //If stack is empty break loop
-                if(st.empty()) break;
-
-                //Retrive a node from stack
-                node = st.top();
-
-                //Remove node from stack
-                st.pop();
-
-                //Add the node's value to list
-                inorder.push_back(node -> val);
-
-                //Move to right child
-                node = node -> right;
-            }
-        }
-        return inorder; 
+        //Call inorder traversal function
+        recursiveInorder(root, arr);
+        return arr;
     }
 };
