@@ -18,6 +18,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0056-merge-intervals](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0118-pascals-triangle) |
@@ -39,6 +40,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0268-missing-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -145,6 +147,7 @@ This repositories contain various data structures & algorithms solutions to ques
 | [0048-rotate-image](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sakshamwane/Data-Structures-in-CPP/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
